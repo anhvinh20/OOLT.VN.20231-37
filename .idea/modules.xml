@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/OOLT.VN.20231-37.iml" filepath="$PROJECT_DIR$/.idea/OOLT.VN.20231-37.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/src/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/screen/screen.iml" filepath="$PROJECT_DIR$/src/screen/screen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/src.iml" filepath="$PROJECT_DIR$/src/src.iml" />
     </modules>
   </component>
 </project>
