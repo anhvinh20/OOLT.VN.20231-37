@@ -64,7 +64,7 @@ public class HeapSort extends Sort {
   }
 
   @Override
-  public ArrayList<Transition> startSort(CNode[] arr) {
+  public ArrayList<Transition> sorting(CNode[] arr) {
     heapSort(arr);
 
     transitions.add(colorCNode(Arrays.asList(arr), Color.ROYALBLUE));
