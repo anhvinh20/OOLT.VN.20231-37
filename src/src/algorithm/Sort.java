@@ -61,5 +61,5 @@ public abstract class Sort {
 	    return pt;
 	  }
 
-	  public abstract ArrayList<Transition> startSort(CNode[] arr);
+	  public abstract ArrayList<Transition> sorting(CNode[] arr);
 }
