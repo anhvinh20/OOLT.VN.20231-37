@@ -54,7 +54,7 @@ public class MenuScreenController{
         Alert alert = new Alert(AlertType.INFORMATION);
         alert.setTitle("Help");
         alert.setHeaderText("Sorting Visualization");
-        alert.setContentText("This program demonstrates 3 sorting algorithms: Bubble Sort, Insertion Sort, and Quick Sort. "
+        alert.setContentText("This program demonstrates 3 sorting algorithms: Bubble Sort, Heap Sort, and Shell Sort. "
                 + "You can choose a sorting algorithm and visualize the step-by-step sorting process.\n\n"
                 + "To use the program:\n"
                 + "- Select a sorting algorithm from the menu\n"
