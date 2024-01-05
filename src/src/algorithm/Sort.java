@@ -12,8 +12,14 @@ public abstract class Sort {
 	  	public final Color SELECT_COLOR = Color.CYAN;
 	  	public final Color SORTED_COLOR = Color.ROYALBLUE;
 
-	  static int DX;
-	  
+	  static double DX;
+	  public Sort(double DX){
+		  this.DX = DX;
+	  }
+
+	  public double getDX(){
+		  return DX;
+	  }
 	  ParallelTransition colorCNode(CNode[] arr, Color color, int...a) {
 	    ParallelTransition pt = new ParallelTransition();
 	    
