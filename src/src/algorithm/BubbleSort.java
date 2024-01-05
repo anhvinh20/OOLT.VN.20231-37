@@ -44,7 +44,7 @@ public class BubbleSort extends Sort {
   }
 
   @Override
-  public ArrayList<Transition> startSort(CNode[] arr) {
+  public ArrayList<Transition> sorting(CNode[] arr) {
     bubbleSort(arr);
 
     this.transitions.add(colorCNode(Arrays.asList(arr), SORTED_COLOR));
