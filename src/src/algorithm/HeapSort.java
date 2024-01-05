@@ -9,7 +9,8 @@ public class HeapSort extends Sort {
   private static final Color ROOT_COLOR = Color.GOLD;
   private ArrayList<Transition> transitions;
 
-  public HeapSort() {
+  public HeapSort(double DX) {
+    super(DX);
     this.transitions = new ArrayList<>();
   }
 
