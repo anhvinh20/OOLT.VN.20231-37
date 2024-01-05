@@ -9,7 +9,8 @@ public class BubbleSort extends Sort {
   private boolean swapped;
   private ArrayList<Transition> transitions;
 
-  public BubbleSort() {
+  public BubbleSort(double DX) {
+    super(DX);
     this.transitions = new ArrayList<>();
   }
 
