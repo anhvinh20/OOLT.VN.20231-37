@@ -56,7 +56,7 @@ public class ShellSort extends Sort{
 	}
 	
 	@Override
-	public ArrayList<Transition> startSort(CNode[] arr) {
+	public ArrayList<Transition> sorting(CNode[] arr) {
 		shellSort(arr);
 		this.transitions.add(colorCNode(Arrays.asList(arr), SORTED_COLOR));
 		return this.transitions;
