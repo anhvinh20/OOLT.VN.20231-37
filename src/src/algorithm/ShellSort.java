@@ -11,7 +11,8 @@ public class ShellSort extends Sort{
 	private static final Color SUB_COLOR = Color.GOLD;
 	private ArrayList<Transition> transitions;
 	
-	public ShellSort() {
+	public ShellSort(double DX) {
+		super(DX);
 		this.transitions = new ArrayList<>();
 	}
 	
