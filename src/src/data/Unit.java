@@ -9,9 +9,11 @@ public class Unit extends Rectangle {
     public Unit(int height) {
         this.value = height;
     }
+
     public int getValue() {
         return value;
     }
+    // dịch chuyển
     public TranslateTransition move(double x) {
         TranslateTransition tt = new TranslateTransition();
         tt.setNode(this);
