@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30077f26-6ed6-423a-9121-1d67c8716d2c" name="Changes" comment="Update">
-      <change beforePath="$PROJECT_DIR$/src/src/screen/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/screen/test.java" afterDir="false" />
-    </list>
+    <list default="true" id="30077f26-6ed6-423a-9121-1d67c8716d2c" name="Changes" comment="Update" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/screen2",
+    "git-widget-placeholder": "main",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "last_opened_file_path": "C:/Users/ASUS/Downloads/2023/KÌ 1/OOP/OOLT.VN.20231-37"
   }
