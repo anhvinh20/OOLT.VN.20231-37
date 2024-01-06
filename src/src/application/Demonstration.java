@@ -14,10 +14,6 @@ public class Demonstration extends Application {
 		Scene canvas = new Scene(root);
 		stage.setScene(canvas);
 		stage.setTitle("Sorting Visualization");
-
-		stage.setWidth(800);
-		stage.setHeight(600);
-
 		stage.show();
 	}
 	
