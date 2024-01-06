@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Alert?>
+
+<VBox fx:id="rootVBox" alignment="CENTER" spacing="10.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1">
+    <TextArea fx:id="resultTextArea" editable="false" />
+    <HBox spacing="10.0">
+        <Button text="Generate Array" onAction="#generateArray" />
+        <Label text="Array Size:" />
+        <TextField fx:id="sizeTextField" promptText="Enter size" />
+        <Button text="Sort Array" onAction="#sortArray" />
+        <Button text="Back to Menu" onAction="#backToMenu" />
+    </HBox>
+</VBox>
