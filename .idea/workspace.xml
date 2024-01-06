@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30077f26-6ed6-423a-9121-1d67c8716d2c" name="Changes" comment="Update Use case diagram">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="30077f26-6ed6-423a-9121-1d67c8716d2c" name="Changes" comment="Update">
+      <change beforePath="$PROJECT_DIR$/src/src/screen/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/screen/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/controller" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,7 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -51,11 +50,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "feature/data",
+    "git-widget-placeholder": "feature/screen2",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
     "last_opened_file_path": "C:/Users/ASUS/Downloads/2023/KÌ 1/OOP/OOLT.VN.20231-37"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="application" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -65,6 +69,71 @@
       <option name="presentableId" value="Default" />
       <updated>1702697359203</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update data ( chưa fix được phần randomArr  )">
+      <option name="closed" value="true" />
+      <created>1704475660814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704475660814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update application">
+      <option name="closed" value="true" />
+      <created>1704517892897</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704517892897</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Update application">
+      <option name="closed" value="true" />
+      <created>1704542857086</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704542857086</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Update application">
+      <option name="closed" value="true" />
+      <created>1704543633600</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704543633600</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update application">
+      <option name="closed" value="true" />
+      <created>1704543976835</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704543976835</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update data">
+      <option name="closed" value="true" />
+      <created>1704544493311</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1704544493311</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update data">
+      <option name="closed" value="true" />
+      <created>1704544835146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1704544835146</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Update">
+      <option name="closed" value="true" />
+      <created>1704547381051</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704547381051</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +162,10 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Update Use case diagram" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Use case diagram" />
+    <MESSAGE value="Update data ( chưa fix được phần randomArr  )" />
+    <MESSAGE value="Update application" />
+    <MESSAGE value="Update data" />
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
 </project>
