@@ -1,22 +1,22 @@
 # OOLT.VN.20231-37
-Nguyễn Anh Vinh - 20215169:
+1. Nguyễn Anh Vinh - 20215169:
   - DataController class
   - Unit class
   - Demonstration class
   - MenuScreen class
   - Write report
   - Make PPT
-Nguyễn Hoàng Việt- 20215168
+2. Nguyễn Hoàng Việt- 20215168
   -	BubbleSort class
   -	HeapSort class
   -	ShellSort class
   -	Sort class
   -	Make video
-Lê Quốc Việt - 20215165:
+3. Lê Quốc Việt - 20215165:
   -	MenuScreenController class
   -	DemonstrationController class
   -	InputTransformer class
-Lê Quốc Việt - 20215166
+4. Lê Quốc Việt - 20215166
   -	MenuScreen.fxml
   -	Demonstration.fxml
 
