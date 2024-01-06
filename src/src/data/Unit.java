@@ -6,14 +6,8 @@ import javafx.scene.shape.Rectangle;
 public class Unit extends Rectangle {
     private final int value;
 
-    public Unit(int value, double width, double height) {
-        this.value = value;
-        // Đặt chiều cao và chiều rộng của hình chữ nhật
-        this.setHeight(height);
-        this.setWidth(width);
-
-        // Đặt màu sắc hoặc các thuộc tính khác của hình chữ nhật nếu bạn muốn
-        // this.setFill(Color.BLUE); // ví dụ, đặt màu là xanh
+    public Unit(int height) {
+        this.value = height;
     }
     public int getValue() {
         return value;
