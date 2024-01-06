@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30077f26-6ed6-423a-9121-1d67c8716d2c" name="Changes" comment="Update Use case diagram">
-      <change afterPath="$PROJECT_DIR$/src/src/algorithm/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algorithm/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controller/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screen/test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/src.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/algorithm" />
+        <entry key="$PROJECT_DIR$" value="feature/controller" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,9 +51,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "feature/data",
     "jdk.selected.JAVA_MODULE": "openjdk-21",
-    "last_opened_file_path": "C:/Users/ASUS/Downloads/2023/KÌ 1/OOP/OOLT.VN.20231-20215169.NguyenAnhVinh"
+    "last_opened_file_path": "C:/Users/ASUS/Downloads/2023/KÌ 1/OOP/OOLT.VN.20231-37"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -84,7 +78,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/feature/algorithm" />
+                        <option value="origin/feature/data" />
                       </list>
                     </value>
                   </entry>
