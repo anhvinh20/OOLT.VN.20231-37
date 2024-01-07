@@ -16,7 +16,7 @@ public class Unit extends Rectangle {
         TranslateTransition tt = new TranslateTransition();
         tt.setNode(this);
         tt.setByX(x);
-        tt.setDuration(javafx.util.Duration.millis(1000));
+        tt.setDuration(javafx.util.Duration.minutes(0.2));
         return tt;
     }
 }
