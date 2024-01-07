@@ -20,4 +20,6 @@
   -	MenuScreen.fxml
   -	Demonstration.fxml
 
+Tài liệu tham khảo : https://github.com/chriszq/VisualSortingAlgorithms
+
 VIDEO DEMO : https://drive.google.com/file/d/1gfC1QlB1YAELzz1gz1E7Ycbqm7d1Pjjv/view
